@@ -42,5 +42,5 @@ Then, when you want to update the font with just `git pull`, symlink them to `~/
 ```shell
 ln -fs ~/curie/regular/curieMedium.dfont ~/Library/fonts/curieMedium.dfont
 ln -fs ~/curie/bold/curieBold.dfont ~/Library/fonts/curieBold.dfont
-ln -fs ~/curie/italic/curieItalic.dfont ~/Library/fonts/curieItalic.dfont
+ln -fs ~/curie/italic/curieBoldItalic.dfont ~/Library/fonts/curieBoldItalic.dfont
 ```

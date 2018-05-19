@@ -4,7 +4,7 @@ FullName: curie Medium
 FamilyName: curie
 Weight: Medium
 Copyright: Copyright (C) 2018 nerdypepper
-UComments: "2018-4-5: Created with FontForge (http://fontforge.org)"
+UComments: "2018-5-19: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -15,18 +15,14 @@ InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 527 -758485900 14296998]
+XUID: [1021 784 -1864514817 16264584]
+StyleMap: 0x0000
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1522941122
-ModificationTime: 1522942366
-PfmFamily: 17
-TTFWeight: 500
-TTFWidth: 5
-LineGap: 90
-VLineGap: 0
+CreationTime: 1526743930
+ModificationTime: 1526743930
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,10 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
-OS2CodePages: ffffffff.ffffffff
-OS2UnicodeRanges: ffffffff.ffffffff.ffffffff.ffffffff
-MarkAttachClasses: 1
 DEI: 91125
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -51,10 +43,8 @@ NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 38 38 12
+WinInfo: 0 25 8
 OnlyBitmaps: 1
-BeginPrivate: 0
-EndPrivate
 BeginChars: 65536 433
 
 StartChar: space
@@ -3521,7 +3511,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 12 434 10 2 1 nerdypepper
+BitmapFont: 12 433 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Medium-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
@@ -3569,8 +3559,8 @@ BDFChar: 5 37 6 0 5 0 7
 aN+o(+<X?O
 BDFChar: 6 38 6 0 4 0 7
 @$#n(W0!*S
-BDFChar: 7 39 6 2 2 6 8
-J:N.M
+BDFChar: 7 39 6 1 4 5 8
++<Vdl
 BDFChar: 8 40 6 1 4 -1 8
 0L1/=J:N0#5VN0<
 BDFChar: 9 41 6 1 4 -1 8

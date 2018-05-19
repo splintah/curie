@@ -8,8 +8,6 @@ This fork adds or modifies some characters to my liking, and adds an italic vers
 
 These are screenshots of **this** fork.
 
-![curie-abc.png](./curie-abc.png)
-
 ![curie-example.png](./curie-example.png)
 
 ## Installation

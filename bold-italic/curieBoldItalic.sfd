@@ -2,7 +2,7 @@ SplineFontDB: 3.0
 FontName: curieBoldItalic
 FullName: curie BoldItalic
 FamilyName: curie
-Weight: Bold italic
+Weight: Bold
 Copyright: Copyright (C) 2018 nerdypepper
 UComments: "2018-5-19: Created with FontForge (http://fontforge.org)"
 Version: 001.000
@@ -43,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 50 25 8
+WinInfo: 0 25 8
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -3551,8 +3551,8 @@ BDFChar: 0 32 6 5 5 -2 -2
 z
 BDFChar: 1 33 6 2 2 0 7
 J:N0#J,k+M
-BDFChar: 2 34 6 1 3 6 8
-TV.qX
+BDFChar: 2 34 6 0 3 5 8
+:f'u]
 BDFChar: 3 35 6 0 4 0 7
 :f-p`;#!j`
 BDFChar: 4 36 6 0 4 -2 8

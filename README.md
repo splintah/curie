@@ -1,14 +1,16 @@
-# Curie
+# Curie (fork by splintah)
 
-A slightly upscaled version of scientifica.
+A fork of a slightly upscaled version of scientifica.
+
+This fork adds or modifies some characters to my liking.
 
 ## Screenshots
 
-![curiebolditalic.png](https://user-images.githubusercontent.com/23706925/40254621-32fa9640-5ab2-11e8-8ad0-d5a5d78badc8.png)
+These are screenshots of **this** fork.
 
-![curieabc.png](https://user-images.githubusercontent.com/23706925/39848353-7c4ef32a-53d4-11e8-8d7e-04f6a950c856.png)
+![curie-abc.png](./curie-abc.png)
 
-![curiecode.png](https://user-images.githubusercontent.com/23706925/39848352-7c3c59ea-53d4-11e8-825b-1b373ef2f304.png)
+![curie-example.png](./curie-example.png)
 
 ## Installation
 
@@ -16,12 +18,29 @@ A slightly upscaled version of scientifica.
 
 Download Curie
 ```shell
- cd ~
- git clone https://github.com/nerdypepper/curie
- ```
- Symlink it to your fonts folder
- ```shell
+cd ~
+git clone https://github.com/splintah/curie
+```
+Symlink it to your fonts folder
+```shell
 ln -fs ~/curie/regular/curieMedium-12.bdf ~/.local/share/fonts/curieMedium-12.bdf
 ln -fs ~/curie/bold/curieBold-12.bdf ~/.local/share/fonts/curieBold-12.bdf
 ln -fs ~/curie/italic/curieItalic-12.bdf ~/.local/share/fonts/curieItalic-12.bdf
+```
+
+### macOS
+
+Download Curie
+```shell
+cd ~
+git clone https://github.com/splintah/curie
+```
+
+Open the .dfont files in the `regular`, `bold`, and `italic` folders.
+
+Then, when you want to update the font with just `git pull`, symlink them to `~/Library/Fonts/`:
+```shell
+ln -fs ~/curie/regular/curieMedium.dfont ~/Library/fonts/curieMedium.dfont
+ln -fs ~/curie/bold/curieBold.dfont ~/Library/fonts/curieBold.dfont
+ln -fs ~/curie/italic/curieItalic.dfont ~/Library/fonts/curieItalic.dfont
 ```

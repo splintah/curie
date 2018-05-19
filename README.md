@@ -26,6 +26,7 @@ Symlink it to your fonts folder
 ln -fs ~/curie/regular/curieMedium-12.bdf ~/.local/share/fonts/curieMedium-12.bdf
 ln -fs ~/curie/bold/curieBold-12.bdf ~/.local/share/fonts/curieBold-12.bdf
 ln -fs ~/curie/italic/curieItalic-12.bdf ~/.local/share/fonts/curieItalic-12.bdf
+ln -fs ~/curie/bold-italic/curieBoldItalic-12.bdf ~/.local/share/fonts/curieBoldItalic-12.bdf
 ```
 
 ### macOS
